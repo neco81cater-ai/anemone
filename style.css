@@ -64,8 +64,8 @@ img {
 }
 
 .img-large {
-  width: 500px; !important;
-  height: auto; !important;
+  width: 500px !important;
+  height: auto !important;
   object-fit: cover;
   border-radius: 50%;
   transition: 0.3s ease;
